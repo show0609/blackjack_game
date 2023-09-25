@@ -64,28 +64,3 @@
 
 ※電腦玩家行為以最小點數做為判斷
 ex: Random 玩家有 card 1 (point 1 or 11), 以 point 1 作為行為判斷(有100%抽牌機率)
-
-
-### Reference
-Inheritance:
-    https://www.studytonight.com/cpp/order-of-constructor-call.php
-new:
-    https://openhome.cc/Gossip/CppGossip/newDelete.html
-vector:
-    https://mropengate.blogspot.com/2015/07/cc-vector-stl.html
-    https://stackoverflow.com/questions/15802006/how-can-i-create-objects-while-adding-them-into-a-vector
-    https://stackoverflow.com/questions/12702561/iterate-through-a-c-vector-using-a-for-loop
-Header Guard:
-    https://blog.csdn.net/qq_27278957/article/details/77988256
-string slicing:
-    https://m.cplusplus.com/reference/string/string/substr/
-random number:
-    https://blog.gtwang.org/programming/c-cpp-rand-random-number-generation-tutorial-examples/
-enum:
-    https://blog.jaycetyle.com/2018/09/c-xmacro/
-int to str:
-    https://www.delftstack.com/zh-tw/howto/cpp/how-to-convert-int-to-string-in-cpp/
-typeid:
-    https://stackoverflow.com/questions/351845/finding-the-type-of-an-object-in-c
-static_cast
-    https://stackoverflow.com/questions/2436125/c-access-derived-class-member-from-base-class-pointer
